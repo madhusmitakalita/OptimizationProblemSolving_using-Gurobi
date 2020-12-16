@@ -14,6 +14,7 @@ Problem 2:
 Integer linear programming problem to help save money.
 
 Problem 3:
+
 A 7x7 game board  marking  the grids to ensure no more than one grid in the same row or the same column are marked.
 Also,  to maximize the sum of the values in those marked grids.
 
@@ -30,4 +31,5 @@ P =[
 
 
 Problem 4 :
-Implementation ILP for the vertex cover problem using Gurob
+
+Implementation ILP for the vertex cover problem using Gurobi
